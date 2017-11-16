@@ -1,6 +1,7 @@
 class java (
 
- $version = "151"
+ $version = "151",
+ $stage  = 'pre-10',
  )
 
 {
